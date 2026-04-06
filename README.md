@@ -51,7 +51,7 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 <h3>github_streak</h3>
 
 <img 
-src="https://streak-stats.demolab.com?user=aritrichatterjee9&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF"
+src="https://streak-stats.demolab.com?user=aritri01&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF"
 />
 
 </div>
