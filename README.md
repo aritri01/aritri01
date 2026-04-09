@@ -23,7 +23,7 @@ building systems. shipping code. repeating.
 <br/><br/>
 
 <p>
-portfolio → https://aritri9.vercel.app/  
+mern portfolio → https://aritri9.vercel.app/  
 analytics → https://www.novypro.com/profile_projects/aritri2024
 </p>
 
