@@ -13,7 +13,6 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=aritri01&style=for-the-badge&label=PROFILE+VIEWS"/>
-
 <br><br>
 
 <a href="https://aritri9.vercel.app">
