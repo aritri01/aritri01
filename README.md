@@ -11,8 +11,7 @@
 > building systems. shipping code. repeating.
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=aritri01&style=for-the-badge&label=PROFILE+VIEWS"/>
+https://komarev.com/ghpvc/?username=aritri.chatterjee9@gmail.com
 <br><br>
 
 <a href="https://aritri9.vercel.app">
