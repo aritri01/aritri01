@@ -50,8 +50,9 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 
 <h3>github_streak</h3>
 
-<img src="https://streak-stats.demolab.com?user=aritri01&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aritri01&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
