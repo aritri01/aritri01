@@ -63,8 +63,7 @@
 
 ## 🚧 Featured Projects
 
-### 🔴 Red Pill to Red Eye
-AI-powered autonomous drone ecosystem inspired by military-grade LLM systems.
+
 
 ### 🏎️ Chicane Theory
 Formula One analytics and race strategy insights.
