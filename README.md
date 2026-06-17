@@ -28,24 +28,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const aritri = {
-    role: "MERN Stack Developer",
-    interests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Analytics",
-        "Autonomous Systems"
-    ],
-    currentProjects: [
-        "Red Pill to Red Eye",
-        "Chicane Theory"
-    ],
-    motto: "Code. Create. Deploy. Repeat."
-};
-```
 
 ---
 
