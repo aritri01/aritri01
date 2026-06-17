@@ -48,12 +48,11 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 <div align="center" style="font-family:Courier New, monospace;">
 
 
-<h3>github_streak</h3>
+## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aritri01&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aritri01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 <div align="center" style="font-family:Courier New, monospace;">
