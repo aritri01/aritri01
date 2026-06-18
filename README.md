@@ -18,11 +18,6 @@
   <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://www.novypro.com/profile_projects/aritri2024">
-  <img src="https://img.shields.io/badge/Power_BI-Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</a>
-
-</div>
 
 ---
 
