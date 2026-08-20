@@ -48,18 +48,7 @@
 
 ---
 
-## 🚧 Featured Projects
 
-
-
-### 🏎️ Chicane Theory
-Formula One analytics and race strategy insights.
-
-### 🌾 Agricultural Drone Automation
-Autonomous crop monitoring and watering systems.
-
-### 📊 Data Analytics Portfolio
-Power BI, Tableau, Machine Learning, and Business Intelligence projects.
 
 ---
 
