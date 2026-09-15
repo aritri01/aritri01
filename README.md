@@ -32,7 +32,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aritri01&theme=tokyo-night&hide_border=true"/>
+<img src="https://ghchart.xqsit94.in/dark:default/aritri01" alt="Aritri's GitHub Contributions" width="95%"/>
+
+<br>
+
+<sub>⚡ Building • Committing • Shipping</sub>
 
 </div>
 
