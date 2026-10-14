@@ -2,7 +2,7 @@
 
 # Aritri Chatterjee
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername&amp;left_text=Profile%20views&amp;right_color=00BFFF" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername&amp;left_text=Profile%20views&amp;right_color=BD00F" alt="Profile views" />
 </p>
 
 ### MERN Stack Developer • Data Analyst • AI Systems Builder
